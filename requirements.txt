@@ -1,7 +1,0 @@
-gym==0.25.1
-numpy
-matplotlib
-seaborn
-pandas
-scikit-learn
-jupyter
